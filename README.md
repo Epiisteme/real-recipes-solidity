@@ -2,5 +2,6 @@
 Real Recipes on Solidity Syntax
 
 ## List of Programs
-- Basic Time Lock
-- Basic Data Loader
+- Basic Transient Time Lock
+- Basic Transitive Time Lock
+- Basic Data Loader Pattern
